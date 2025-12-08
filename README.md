@@ -88,7 +88,7 @@ A modern, responsive, and feature-rich inventory management application built us
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/stock-fusion.git
+git clone https://github.com/harish07466/Stock-Fusion.git
 cd stock-fusion
 ```
 
