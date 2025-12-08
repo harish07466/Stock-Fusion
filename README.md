@@ -4,9 +4,7 @@ A modern, responsive, and feature-rich inventory management application built us
 
 ### 🔗 **Live Demo:**
 
-👉 _(Paste your deployed link here)_
-`https://your-deployment-link.com`
-
+👉 https://stock-fusion-hk.netlify.app/
 ---
 
 ---
