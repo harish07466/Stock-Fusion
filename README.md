@@ -4,7 +4,7 @@ A modern, responsive, and feature-rich inventory management application built us
 
 ### 🔗 **Live Demo:**
 
-👉 
+👉 https://stock-fusion.pages.dev/
 ---
 
 ---
